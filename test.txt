@@ -2,4 +2,4 @@ git learning
 second
 third
 four
-123456
+123
